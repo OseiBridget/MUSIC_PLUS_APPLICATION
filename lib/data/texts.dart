@@ -1,0 +1,36 @@
+const String studentDeliver = "Student Deliver";
+const String placeARequest = "Submit Request";
+const String allRequests = "All requests";
+const String myAcceptedRequests = "My Accepted Requests";
+const String verifyMyAcc = "Verify my account";
+const String reqHistory = "Request history";
+const String deliveryHistory = "Delivery history";
+const String reportAUser = "Report a user";
+const String username = "Username";
+const String password = "Password";
+const String cPassword = "Confirm Password";
+const String signUp = "Signup";
+const String email = "Email";
+const String indexNo = "Student ID/Index Number";
+const String phoneNo = "Phone Number";
+const String school = "School";
+const String year = "Year";
+const String requesterName = "Requester Name";
+const String requesterNumber = "Requester Number";
+const String itemName = "Item Name";
+const String deliverySchool = "Delivery School";
+const String pickupLocationName = "Pickup Location Name";
+const String pickupLocationCoordinates = "Pickup Location Coordinates";
+const String destinationLocationCoordinates =
+    "Destination Location Coordinates";
+const String destinationLocationName = "Destination Location Name";
+const String recipientName = "Recipient Name";
+const String recipientNumber = "Recipient Number";
+const String recipientUniqueCode = "Recipient Unique Code";
+const String deliveryPrice = "Delivery Price";
+const String itemDescription = "Item Description";
+const String itemImage = "Item Image";
+const String verificationText =
+    "Jo0189f21fb2524ffd92f8a4215c5a3957b'p{M'efcddd93-014f-47e7-b9c8-73d9eRosUaxpszQse";
+const String proceed = "Proceed";
+const String fullName = "Full Name";
